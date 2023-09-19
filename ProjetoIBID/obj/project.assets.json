@@ -2853,11 +2853,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Course\\ProjetoIBID\\ProjetoIBID.csproj",
+      "projectUniqueName": "C:\\Course\\CrudConsole\\ProjetoIBID\\ProjetoIBID.csproj",
       "projectName": "ProjetoIBID",
-      "projectPath": "C:\\Course\\ProjetoIBID\\ProjetoIBID.csproj",
+      "projectPath": "C:\\Course\\CrudConsole\\ProjetoIBID\\ProjetoIBID.csproj",
       "packagesPath": "C:\\Users\\xandr\\.nuget\\packages\\",
-      "outputPath": "C:\\Course\\ProjetoIBID\\obj\\",
+      "outputPath": "C:\\Course\\CrudConsole\\ProjetoIBID\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
